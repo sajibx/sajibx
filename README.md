@@ -37,6 +37,7 @@
 
 ### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android%20(Native)-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -67,7 +68,7 @@
 - I’ve built **enterprise-level backend services** with Java Spring Boot and Oracle.
 - I enjoy working on **microservices** and **scalable architectures**.
 - I’m exploring **Data Engineering** with Airflow, Spark, and GCP.
-- I’ve explored both **mobile development** (Kotlin, Flutter) and **big data workflows**.
+- I’ve explored both **mobile development** (Kotlin, Flutter, Native Android) and **big data workflows**.
 
 ---
 
