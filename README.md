@@ -1,24 +1,42 @@
 # Hi there, I'm Sajib 👋
 
 💻 **Software Engineer | Backend Developer | Aspiring Data Engineer**  
-🌱 Currently learning: Apache Airflow, Data Pipelines, GCP  
-🎯 2025 Goals: Build & share 5 Data Engineering + Backend projects on GitHub  
+🌱 Currently learning: Apache Airflow, Apache Spark, Data Pipelines, Google Cloud  
+🎯 2025 Goals: Build & share **5+ Data Engineering + Backend projects** on GitHub  
 ⚡ Fun fact: I enjoy exploring new tech stacks and turning side ideas into working solutions  
 
 ---
 
 ## 🚀 Tech Stack
+
+### **Programming & Scripting**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Backend Development**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
+
+### **Data Engineering & Big Data**
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Oracle ESB](https://img.shields.io/badge/Oracle%20ESB-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+### **Cloud & DevOps**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -48,7 +66,8 @@
 ## 🔥 Fun Facts About Me
 - I’ve built **enterprise-level backend services** with Java Spring Boot and Oracle.
 - I enjoy working on **microservices** and **scalable architectures**.
-- I’ve explored both **mobile development** (Kotlin, Flutter) and **data engineering** tools.
+- I’m exploring **Data Engineering** with Airflow, Spark, and GCP.
+- I’ve explored both **mobile development** (Kotlin, Flutter) and **big data workflows**.
 
 ---
 
